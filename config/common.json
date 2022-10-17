@@ -1,0 +1,16 @@
+{
+
+  "times_to_reconnect_s" : 5,
+
+  "time_to_flush_logs_s" : 5,
+
+  "server_data" : {
+    "host" : "10.0.0.7",
+    "port" : 8080
+  },
+
+  "logging" : {
+    "file_logger" : "general_file_logger",
+    "console_logger" : "general_console_logger"
+  }
+}
